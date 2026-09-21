@@ -1,6 +1,5 @@
 class Solution:
     def missingNumber(self, nums):
-        # Step 1: Find the value of n
         n = len(nums)
         
         # Step 2: Calculate the expected sum using the formula
